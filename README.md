@@ -7,8 +7,8 @@ Hi there! I'm **Harsh Agarwal**, a Data Analyst with a passion for transforming 
 ## 🔍 About Me  
 
 - 🎓 **Background:** I hold a **Post Graduate Diploma in Management** in Finance and Marketing from Shri Ram Murti Smarak International Business School, Lucknow.
-- 💻 **Interests:** I am particularly interested in **Data Science**, and **Data Visualization**  
-- 🛠️ **Favorite Tools:** I am proficient in **Python**, **SQL**, **MS Excel**, and **Power BI**.
+- 💻 **Interests:** I am particularly interested in **Data Science**, **Data Analyst**, **Business Analyst** and **Data Visualization**  
+- 🛠️ **Favorite Tools:** I am proficient in **Python**, **SQL**, **MS Excel**, **Google Sheets** and **Power BI**.
 
 ---
 
@@ -19,9 +19,9 @@ Hi there! I'm **Harsh Agarwal**, a Data Analyst with a passion for transforming 
 - SQL   
 
 **Data Analysis & Visualization:**  
-- Pandas, NumPy  
+- Pandas, NumPy, Scikit-learn  
 - Matplotlib, Seaborn  
-- Power BI, MS Excel  
+- Power BI, MS Excel, Google Sheets  
 
 ---
 
